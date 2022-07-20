@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/classlinhas" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
